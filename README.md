@@ -20,7 +20,7 @@ Questions they hope to answer with the data
 
 
 
-# Questions to Answer
+## Questions to Answer
 * Is there a way to detect credit card fraud based on:
   * Time of transaction
   * Amount of transaction
@@ -28,18 +28,25 @@ Questions they hope to answer with the data
 
 * Can this process be automated?
 
+## Description of Communication Protocols
+* One check-in via Slack at least once per day before the end of the day
+* Weekly Meetings
+ * First meeting is November 13 at 6pm
+
+By November 13:
+* At least one branch for each team member
+* Each team member has at least four commits for the duration of the first segment
 
 
 
-
-Machine Learning Model (35 points)
+## Machine Learning Model (35 points)
 Team members will be expected to present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
 
 Takes in data from the provisional database
 Outputs label for input data
 
 
-Database Integration (25 points)
+## Database Integration (25 points)
 Team members will be expected to present a provisional database that stands in for the final database and accomplishes the following:
 
 Sample data that mimics the expected final database structure or schema
