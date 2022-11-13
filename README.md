@@ -59,4 +59,7 @@ Team members will be expected to present a provisional database that stands in f
 Sample data that mimics the expected final database structure or schema
 Draft machine learning model is connected to the provisional database
 
+## ERD
+![ERD draft](https://user-images.githubusercontent.com/108309093/201550061-2be7df0d-1754-4a32-a8f5-cc76db3de770.PNG)
+
 
