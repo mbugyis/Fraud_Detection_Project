@@ -62,4 +62,7 @@ Draft machine learning model is connected to the provisional database
 ## ERD
 ![ERD draft](https://user-images.githubusercontent.com/108309093/201550061-2be7df0d-1754-4a32-a8f5-cc76db3de770.PNG)
 
+## Mockup of Possible Visualization
+
+![Automating Credit Card Fraud](https://user-images.githubusercontent.com/108236450/201803440-a282aec6-8108-43e5-859c-cfa2bfc04136.png)
 
