@@ -60,8 +60,7 @@ Sample data that mimics the expected final database structure or schema
 Draft machine learning model is connected to the provisional database
 
 ## ERD
-
-![ERD Help](https://user-images.githubusercontent.com/108309093/201807127-f8b364a4-34b5-4026-9169-9989e4d37aea.png)
+![ERD Final](https://user-images.githubusercontent.com/108309093/202322334-6a219149-1d01-4fc3-a3a1-79c61978a3d1.png)
 
 ## Mockup of Possible Visualization
 
