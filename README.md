@@ -67,3 +67,6 @@ SQL Database Mockup
 
 ![Automating Credit Card Fraud](https://user-images.githubusercontent.com/108236450/201803440-a282aec6-8108-43e5-859c-cfa2bfc04136.png)
 
+## EDA Dashboard using random sample of 100,000
+
+https://prod-useast-b.online.tableau.com/t/depauwtableau/views/FirstDraftofExpDashboard/Dashboard1 
