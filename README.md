@@ -69,4 +69,4 @@ SQL Database Mockup
 
 ## EDA Dashboard using random sample of 100,000
 
-https://prod-useast-b.online.tableau.com/t/depauwtableau/views/FirstDraftofExpDashboard/Dashboard1 
+<script type='module' src='https://prod-useast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-b.online.tableau.com/t/depauwtableau/views/FirstDraftofExpDashboard/Dashboard1' width='1000' height='827' hide-tabs toolbar='bottom' ></tableau-viz> 
