@@ -1,11 +1,7 @@
-# 
 
+# Selected topic: Automating Credit Card Fraud Detection
 
-The team members have drafted their project, including the following:
-
-## Selected topic: Automating Credit Card Fraud Detection
-
-Credit cards are now a ubiquitous part of daily life. As such the increased use comes with it the greater possiblity of fraud. Consumers need to feel confident in their use and in the bank's ability to detect and respond to fraudulent charges quickly.
+Rationale: Credit cards are now a ubiquitous part of daily life. As such the increased use comes with it the greater possiblity of fraud. Consumers need to feel confident in their use and in the bank's ability to detect and respond to fraudulent charges quickly.
 
 
 ## Description of the source of data
@@ -63,10 +59,15 @@ Draft machine learning model is connected to the provisional database
 SQL Database Mockup
 ![ERD Final](https://user-images.githubusercontent.com/108309093/202322334-6a219149-1d01-4fc3-a3a1-79c61978a3d1.png)
 
-## Mockup of Possible Visualization
+## Visualization
+https://benjaminhogan7.github.io/
 
-![Automating Credit Card Fraud](https://user-images.githubusercontent.com/108236450/201803440-a282aec6-8108-43e5-859c-cfa2bfc04136.png)
+Above is a link to where the final visualization will live. One visualization that is not included is a goal of having a real time fraud detection with user input from a site. Included are: 
+* Visualization showing the number of transactions, where the color is showing the average amount of transactions
+* A chart showing the number of transactions broken down by type and whether they are fraud or not
+* A bar chart showing the average amount of transactions that are fraud and not fraud for the transaction types cash out and transfer
+* A chart showing the ratio of the transaction amount of fraud to the beginning balance of the origin account and destination account.
+* A pie chart showing the breakdown of the number of transactions of each type
 
-## EDA Dashboard using random sample of 100,000
+The sample shown in these visualizations is based 100,000 randomly selected transactions out of the original 6 million. It seems to be closely representative of the full data set. In the full data set, only .1334% of transactions were fraud, whereas in the sample .106% are fraud.
 
-https://public.tableau.com/app/profile/ben.hogan/viz/FirstDraftofExpDashboard/Dashboard1
