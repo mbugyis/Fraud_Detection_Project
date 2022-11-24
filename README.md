@@ -6,10 +6,13 @@ Rationale: Credit cards are now a ubiquitous part of daily life. As such the inc
 
 ## Description of the source of data
 
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/versions/2?resource=download
+https://www.kaggle.com/datasets/ealaxi/paysim1
 
-"The datasets contains transactions made by credit cards in September 2013 by european cardholders.
-This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions."
+"PaySim simulates mobile money transactions based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country. The original logs were provided by a multinational company, who is the provider of the mobile financial service which is currently running in more than 14 countries all around the world.
+
+This synthetic dataset is scaled down 1/4 of the original dataset and it is created just for Kaggle."
+
+Description of data source comes from the link above.
 
 ## Description of Data
 * 6,362,620 rows and 11 columns
